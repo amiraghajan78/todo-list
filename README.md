@@ -1,4 +1,4 @@
-## Shopping Card Project using React + TypeScript + Vite
+## Todo List Project using React + TypeScript + Vite
 
 ### Project Link (click to view project) :
 [`todo-list`](https://amiraghajan78.github.io/todo-list/)
